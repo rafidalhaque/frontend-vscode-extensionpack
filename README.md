@@ -23,3 +23,5 @@ You can contribute in it by suggest me useful extensions used for Front End Deve
 
 This repository and all its contents are licensed under [MIT License][2]. 
 
+[1]: https://github.com/rafidalhaque/frontend-vscode-extensionpack/releases
+[2]: ./LICENSE
