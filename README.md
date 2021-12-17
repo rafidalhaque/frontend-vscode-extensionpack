@@ -8,10 +8,10 @@ Assalamu Alaikum Wa Rahmatullah. Welcome to the github repository of VS Code Fro
 
 * Download the ```frontendpack.vsix``` from [Releases][1].
 * Open your Visual Studio Code.
-* Go to Extensions from Sidebar (Defaut Keyboard Shortcut <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> X </kbd> )
+* Go to Extensions from Sidebar (Defaut Keyboard Shortcut <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> X </kbd>).
 * Click ```Install from VSIX``` from 3 dot.
 * Head to the folder where you download the ```frontendpack.vsix``` file.
-* Select & Click ```Install``.
+* Select & Click ```Install```.
 * **Enjoy!**
 
 ## Contributing
