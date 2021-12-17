@@ -4,7 +4,7 @@
     "description": "A collection of VS Code extensions for Front End Development Pack",
     "version": "0.0.1",
     "publisher": "Rafid Al Haque",
-    "icon": "https://raw.githubusercontent.com/rafidalhaque/frontend-vscode-extensionpack/main/logo.jpg",
+    "icon": "logo.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/rafidalhaque/frontend-vscode-extensionpack"
