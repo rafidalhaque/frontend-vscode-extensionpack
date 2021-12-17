@@ -4,7 +4,6 @@
 
 Assalamu Alaikum Wa Rahmatullah. Welcome to the github repository of VS Code FrontEnd Extension Pack.
 
-
 ## Install this extension pack
 
 * Download the ```frontendpack.vsix``` from [Releases][1].
