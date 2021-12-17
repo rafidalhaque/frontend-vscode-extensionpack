@@ -1,4 +1,4 @@
-# Front End Extension Pack
+# Front End Development Pack
 
 ## About
 
