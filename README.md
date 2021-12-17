@@ -1,16 +1,25 @@
-# README
+# Front End Extension Pack
 
-## This is the README for your extension pack "frontend-dev-pack"
+## About
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Assalamu Alaikum Wa Rahmatullah. Welcome to the github repository of VS Code FrontEnd Extension Pack.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-## For more information
+## Install this extension pack
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* Download the ```frontendpack.vsix``` from [Releases][1].
+* Open your Visual Studio Code.
+* Go to Extensions from Sidebar (Defaut Keyboard Shortcut <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> X </kbd> )
+* Click ```Install from VSIX``` from 3 dot.
+* Head to the folder where you download the ```frontendpack.vsix``` file.
+* Select & Click ```Install``.
+* **Enjoy!**
 
-**Enjoy!**
+## Contributing
+
+You can contribute in it by suggest me useful extensions used for Front End Development. Open a issue and fill the form. I will add this to Extension Pack. 
+
+## License
+
+This repository and all its contents are licensed under [MIT License][2]. 
+
