@@ -1,0 +1,38 @@
+name: Suggest A Extension!
+title: "[Suggestion:]"
+description: "Suggest a extension for add to the extension pack."
+labels: ["suggestion", "extension"]
+assignees: rafidalhaque
+
+body:
+  - type: input
+    id: name
+    attributes:
+      label:  Extension Name
+      description: Enter the Name of the Extension
+    validations:
+      required: true
+
+  - type: input
+    id: id
+    attributes:
+      label: Extension ID
+      description: Open the extension in VS Code. Click on \:gear:\, Copy the Extension ID & paste in the field.
+    validations:
+      required: true
+
+  - type: textarea
+    id: uses
+    attributes:
+      label: What the Extension do? 
+      description: Shortly write the extension's uses.
+    validations:
+      required: true
+
+  - type: textarea
+    id: message
+    attributes:
+      label: Any message?
+      description: Leave us any message if you want?
+    validations:
+      required: false  
