@@ -3,19 +3,27 @@
     "displayName": "Front End Development Pack",
     "description": "A collection of VS Code extensions for Front End Development Pack",
     "version": "0.0.1",
-    "publisher": "Rafid Al Haque",
+    "publisher": "rafidalhaque",
+    "author": {
+        "name": "Rafid Al Haque",
+        "email": "rafidalhaque@protonmail.com",
+        "url": "https://rafidalhaque.xyz"
+    },
     "icon": "logo.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/rafidalhaque/frontend-vscode-extensionpack"
     },
+    "keywords": ["html", "css", "js", "web development", "git", "github", "svg", "npm", "intellisense", "react", "xml", "snippets", "javascript"],
     "readme": "https://github.com/rafidalhaque/frontend-vscode-extensionpack#readme",
     "license": "https://github.com/rafidalhaque/frontend-vscode-extensionpack/blob/main/LICENSE",
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs",
+        "Snippets",
+        "SCM Providers"
     ],
     "extensionPack": [ 
         "abusaidm.html-snippets", 
