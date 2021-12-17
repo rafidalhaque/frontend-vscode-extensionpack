@@ -1,7 +1,7 @@
 {
     "name": "frontend-dev-pack",
     "displayName": "Front End Development Pack",
-    "description": "A collection of VS Code extension for Front End Development Pack",
+    "description": "A collection of VS Code extensions for Front End Development Pack",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
