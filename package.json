@@ -3,6 +3,7 @@
     "displayName": "Front End Development Pack",
     "description": "A collection of VS Code extensions for Front End Development Pack",
     "version": "0.0.1",
+    "icon": "https://raw.githubusercontent.com/rafidalhaque/frontend-vscode-extensionpack/main/logo.jpg",
     "engines": {
         "vscode": "^1.63.0"
     },
